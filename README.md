@@ -17,8 +17,8 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 1. Clone this repository:
 
-    git clone https://github.com/mithilbatra/automated_ai_interviewer.git
-
+    git clone https://github.com/Shiv-2018/AI-Interviewer
+    
 2. Navigate to the project directory:
 
     cd ai-mock-interview
